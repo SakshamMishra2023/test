@@ -384,7 +384,7 @@ int main(){
 		cout << outputArray[i] << " ";
     }
 
-	return 0;
+	return 0
 }
 
 
